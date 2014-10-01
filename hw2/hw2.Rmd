@@ -14,3 +14,16 @@ load(file="dennys/dennys_data.Rdata")
 Blah blah blah
 
 Use data, plot data, etc.
+
+
+### La Quinta Data
+
+```{r}
+lq
+```
+
+### Denny's Data
+
+```{r}
+dennys
+```

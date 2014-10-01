@@ -8,7 +8,7 @@ for(file in dir("lq/hotels",full.names=TRUE))
     # ...
 }
 
-lq = data.frame() # df of La Quinta Data
+lq = data.frame("DATA!!!") # df of La Quinta Data
 
 # ...
 # Do any additional parsing to get Lat/Long etc.
