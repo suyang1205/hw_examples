@@ -2,4 +2,6 @@
 #
 # ...
 
-save(lq, file="dennys/dennys_data.Rdata")
+dennys = data.frame()
+
+save(dennys, file="dennys/dennys_data.Rdata")
